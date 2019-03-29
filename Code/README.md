@@ -31,3 +31,10 @@ The IPython Notebook **two_layer_net.ipynb** will walk you through the implement
 ### Q5: Higher Level Representations: Image Features
 
 The IPython Notebook **features.ipynb** will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
+
+
+```
+Anaconda 创建虚拟环境：conda create -n cs231n python=3.6
+
+安装依赖：pip install -r requirements.txt
+```
