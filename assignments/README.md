@@ -37,6 +37,6 @@ The IPython Notebook **features.ipynb** will walk you through this exercise, in 
 Anaconda 创建虚拟环境：conda create -n cs231n python=3.6
 
 安装依赖：pip install -r requirements.txt
-```
 
 Dataset：[CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+```
